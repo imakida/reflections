@@ -1,0 +1,9 @@
+How is the staging area different from the working directory and the
+repository? What value do you think it offers?
+
+The staging area is a temporary container that lies between the working directory
+ and the repository.  The working directory is broad and holds everything 
+that you are working on and the repository holds only the important 
+items that you need to keep track of.  The staging area allows you 
+to add things that you're about ready to commit to the respository.
+
