@@ -18,3 +18,9 @@ to forking in that you are making exact copies of a repository, except you are g
 a remote onto your computer or making a copy from the files on your own computer. Branches are
 when you make changes to a repository and want to go experiment with out modifying or braking the 
 master branch.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+The benefit of having a copy of the last known state of the remote stored locally is being able to 
+work with the latest collaborated copy of the files.  This will hopefully create less conflict down
+the line.
